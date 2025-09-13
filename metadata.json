@@ -1,0 +1,7 @@
+{
+  "name": "AI Receipt Expense Tracker",
+  "description": "A daily expense tracker that uses AI to automatically scan and categorize expenses from your receipts. Just upload a picture of a receipt, and let the AI do the work.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
